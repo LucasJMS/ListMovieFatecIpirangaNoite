@@ -6,4 +6,6 @@
     <string name="title_activity_list_movie">List Movie</string>
     <string name="title_activity_detail_movie">Detail Movie</string>
     <string name="meta_description">Cartaz de um film</string>
+    <string name="title_activity_list_genres">ActivityListGenres</string>
+    <string name="teste_genero">Ação</string>
 </resources>

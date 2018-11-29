@@ -22,8 +22,11 @@
         <activity
             android:name=".ListMovieActivity"
             android:label="@string/title_activity_list_movie"
-            android:theme="@style/AppTheme.NoActionBar">
-        </activity>
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".ActivityListGenres"
+            android:label="@string/title_activity_list_genres"
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>
