@@ -2,10 +2,11 @@
     <string name="app_name">Projeto PMOB Fatec Ipiranga</string>
     <string name="action_settings">Settings</string>
     <!-- Só estou usando uma sinopse estático como exemplo. O certo é vir da API -->
-    <string name="sinopse">Peter Parker é um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser tímido e por eles o considerarem um nerd. Até que, em uma demonstração científica, um acidente inesperado faz com que aranha modificada geneticamente pique Peter. A partir de então seu corpo é quimicamente alterado pela picada da aranha. Inicialmente Peter pensa em usar seus novos poderes para ganhar dinheiro, adotando o nome de Homem-Aranha e se apresentando em lutas de exibição. Porém, ao permitir que um ladrão fuja por não considerar sua função capturá-lo, o fugitivo acaba assassinando seu tio Ben. A partir de então, Peter decide usar seus poderes para enfrentar o mal, tendo como seu primeiro grande desafio enfrentar o Duende Verde.</string>
+    <string name="sinopse">Sinopse</string>
     <string name="title_activity_list_movie">List Movie</string>
     <string name="title_activity_detail_movie">Detail Movie</string>
     <string name="meta_description">Cartaz de um film</string>
     <string name="title_activity_list_genres">ActivityListGenres</string>
     <string name="teste_genero">Ação</string>
+    <string name="text_sinopse">Peter Parker é um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser tímido e por eles o considerarem um nerd. Até que, em uma demonstração científica, um acidente inesperado faz com que aranha modificada geneticamente pique Peter. A partir de então seu corpo é quimicamente alterado pela picada da aranha. Inicialmente Peter pensa em usar seus novos poderes para ganhar dinheiro, adotando o nome de Homem-Aranha e se apresentando em lutas de exibição. Porém, ao permitir que um ladrão fuja por não considerar sua função capturá-lo, o fugitivo acaba assassinando seu tio Ben. A partir de então, Peter decide usar seus poderes para enfrentar o mal, tendo como seu primeiro grande desafio enfrentar o Duende Verde.</string>
 </resources>
