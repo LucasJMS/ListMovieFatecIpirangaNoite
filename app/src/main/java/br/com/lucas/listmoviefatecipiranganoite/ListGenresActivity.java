@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 
-public class ActivityListGenres extends AppCompatActivity {
+public class ListGenresActivity extends AppCompatActivity {
 
     private RecyclerView mRecyclerViewGenres;
 
